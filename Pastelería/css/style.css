@@ -116,9 +116,6 @@ footer a {
     text-decoration: none; 
     margin: 0 10px; 
 }
-footer p a:hover { 
-    color: yellow; 
-}
 footer i{
      text-shadow:0 0 5px #ff6f61, 0 0 10px #ff6f61, 0 0 20px #ffa500, 0 0 30px #ffd700;
 }
@@ -126,6 +123,7 @@ footer i{
      list-style: none;
      text-align: left;
 }
+
 
 
     
